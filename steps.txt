@@ -1,0 +1,13 @@
+npm i -g @nestjs/cli
+nest new project-name
+npm start - changes not immediately available in the browser
+npm dev start - changes will immediately available in the browser (recommended)
+
+in terminal cmd
+curl localhost:3000
+curl localhost:3000/user
+
+
+for git code commit 
+git init
+
